@@ -1,0 +1,18 @@
+Amazon 4 10 ORG
+Earth 62 67 LOC
+South America 147 160 LOC
+Brazil 172 178 GPE
+Peru 180 184 GPE
+Colombia 186 194 GPE
+Venezuela 200 209 GPE
+approximately 5.5 million square kilometers 220 263 QUANTITY
+One 385 388 CARDINAL
+Amazon 427 433 ORG
+Americas 487 495 LOC
+The Amazon River 681 697 LOC
+second 703 709 ORDINAL
+Nile 747 751 LOC
+Amazon 1005 1011 ORG
+thousands of years 1027 1045 DATE
+Amazon 1392 1398 ORG
+millions 1693 1701 CARDINAL
